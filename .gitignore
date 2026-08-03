@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+.vscode/settings.json
+.env
+.env.*
+.DS_Store
+.opencode
