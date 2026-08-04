@@ -6,7 +6,7 @@ A short, descriptive title for the decision record.
 
 ## Status
 
-Proposed | Accepted | Superseded by [ADR-XXX](./adr-XXX-title.md) | Deprecated
+Proposed | Accepted | Superseded by ADR-XXX | Deprecated
 
 ## Context
 
